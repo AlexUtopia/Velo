@@ -89,12 +89,13 @@ https://youtu.be/k1myJ75rbBU?si=6KSF4kBR70nXXqGn
 
 Таблица 2.2 - Смазка компонентов велосипеда
 
-| Смазка                    | Ссылка                                                                                                                                                                                                                        | Комплектующие | Примечание              |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------|
-| GRENT # 40471 (120 мл)    | [Официальный сайт](https://delfin-industry.ru/production/)<br><br>[OZON](https://www.ozon.ru/product/smazka-dlya-tsepi-dlya-vlazhnoy-pogody-grent-chain-lubricant-wet-condition-120-ml-pet-168136454/)                        | Цепь          | Для влажной погоды      |
-| AEG # 33179 (100 мл)      | [Официальный сайт](https://www.aeglube.ru/velokosmetika/aeg-vsepogodnaya-smazka-100ml.html)<br><br>[OZON](https://www.ozon.ru/product/aeg-vsepogodnaya-smazka-dlya-tsepi-velosipeda-100ml-289790628/)                         | Цепь          | Всепогодная             |
-| Weldtite # 03047 (100 мл) | [Официальный сайт](https://weldtite.cc/products/all-weather-lube-100ml)<br><br>[OZON](https://www.ozon.ru/product/smazka-velosipednaya-s-teflonom-dlya-lyuboy-pogody-dlya-tsepi-trosov-pereklyuchateley-100ml-tf2-339254286/) | Цепь          | Всепогодная, с тефлоном |
-
+| Смазка                    | Ссылка                                                                                                                                                                                                                        | Комплектующие     | Примечание              |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------------|
+| GRENT # 40471 (120 мл)    | [Официальный сайт](https://delfin-industry.ru/production/)<br><br>[OZON](https://www.ozon.ru/product/smazka-dlya-tsepi-dlya-vlazhnoy-pogody-grent-chain-lubricant-wet-condition-120-ml-pet-168136454/)                        | Цепь              | Для влажной погоды      |
+| AEG # 33179 (100 мл)      | [Официальный сайт](https://www.aeglube.ru/velokosmetika/aeg-vsepogodnaya-smazka-100ml.html)<br><br>[OZON](https://www.ozon.ru/product/aeg-vsepogodnaya-smazka-dlya-tsepi-velosipeda-100ml-289790628/)                         | Цепь              | Всепогодная             |
+| Weldtite # 03047 (100 мл) | [Официальный сайт](https://weldtite.cc/products/all-weather-lube-100ml)<br><br>[OZON](https://www.ozon.ru/product/smazka-velosipednaya-s-teflonom-dlya-lyuboy-pogody-dlya-tsepi-trosov-pereklyuchateley-100ml-tf2-339254286/) | Цепь              | Всепогодная, с тефлоном |
+| Weldtite # 02005 (40 г)   | [Официальный сайт](https://weldtite.cc/products/lithium-grease-tube-40g)<br><br>[OZON](https://www.ozon.ru/product/smazka-dlya-podshipnikov-weldtite-litievaya-40g-1640165311)                                                | Подшипники, вилка |                         |
+| AEG # 33182 (100 г)       | [Официальный сайт](https://www.aeglube.ru/masla-dlya-sadovoj-texniki/aeg-smazka-dlya-podshipnikov-c-ptfe-100-g.html)<br><br>[OZON]https://www.ozon.ru/product/aeg-smazka-dlya-podshipnikov-100gr-ptfe-396715975/)             | Подшипники, вилка |                         |
 
 ### 2.2.1 Вилка
 
